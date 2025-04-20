@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Darshan Kakad</h1>
+<h1 align="center">Hi 👋, I'm Darshan Kakad. A tech enthusiast with a love for exploring new ideas and opportunities in technology. I'm especially interested in Machine Learning (ML) and enjoy learning more about it every day. As a teenager, I'm excited about the endless opportunities and possibilities.</h1>
 <h3 align="center">A passionate ML Enthusiast</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dareworks0" alt="dareworks0" /></a> </p>
