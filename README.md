@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 📫 How to reach me **reach.darshankakad@gmail.com**
+- 📫 How to reach me: **reach.darshankakad@gmail.com**
 
-- 📄 Know about my experiences: Resume(https://drive.google.com/file/d/1P0w1kTEQNWVm-UXiH88ss4WCS9EVtNn-/view?usp=sharing)
+- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1P0w1kTEQNWVm-UXiH88ss4WCS9EVtNn-/view?usp=sharing">Resume </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
